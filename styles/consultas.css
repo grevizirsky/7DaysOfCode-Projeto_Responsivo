@@ -1,8 +1,12 @@
+.consultas{
+  padding: 0 16px;
+  height: calc(100vh - 110px - 58px);
+  overflow-y: scroll;
+}
 .consultas__data{
     display: flex;
     align-items: center;
     height: 46px;
-    padding-left: 16px;
   }
   
   .consultas ul{
